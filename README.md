@@ -2,6 +2,8 @@
 
 __Frame__ is a small agent harness for research purposes.
 
+![What is an agent harness?](./what-is-agent-harness.png)
+
 # Coding Agent
 
 *Note: This section was written entirely by the agent itself, describing its own capabilities without human intervention.*
